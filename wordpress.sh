@@ -52,7 +52,7 @@ echo "Creating $PROJECT_FOLDER_NAME"
 
 # DOWNLOAD WORDPRESS
 echo "Downloading Wordpress"
-#wget $WORDPRESS_URL
+wget $WORDPRESS_URL
 
 # UNZIP WORDPRESS AND REMOVE ARCHIVE FILES
 echo "Unzipping Wordpress"
