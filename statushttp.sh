@@ -1,6 +1,4 @@
 #! /bin/bash
-
-
 status="$(systemctl is-active httpd.service)"
 if [ "${status}" = "active" ]; then
   echo "active"
