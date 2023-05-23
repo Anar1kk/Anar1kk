@@ -26,7 +26,7 @@ then
 	done;
 	
 	else
-		echo "bele bir wey tapilmadi"
+		echo "get birde gel"
 fi
 
 
